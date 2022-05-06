@@ -4,7 +4,7 @@ Hi 👋 My name is Sai Krishna Das
 Software Engineer
 -----------------
 
-I've been working as a Frontend developer for three years now. I started my career as a Machine Learning engineer but then later found my passion for frontend development. Lately, handling multiple projects simultaneously at work has motivated me to stay focused and amplify my knowledge which would bring value to the organization and to my personal self. Before my current position, I started working as a software engineer in a startup focused on developing deep learning systems and also building a good user interface. In a short span, we build a system that automates supermarket billing (walk-in walk-out store). Later the product was acquired by a recognized company and has been live since then. I'm a software engineer who constantly seeks out innovative solutions.
+I started my career as a Machine Learning engineer but then later found my passion for frontend development.Ever since I've been working as a Frontend developer. Lately, handling multiple projects simultaneously at work has motivated me to stay focused and amplify my knowledge which would bring value to the organization and to my personal self. Before my current position, I started working as a software engineer in a startup focused on developing deep learning systems and also building a good user interface. In a short span, we build a system that automates supermarket billing (walk-in walk-out store). Later the product was acquired by a recognized company and has been live since then. I'm a software engineer who constantly seeks out innovative solutions.
 
 * 🌍  I'm based in Kerala, India
 * 🖥️  See my portfolio at [Sai Krishnna Das](http://www.saikrishnadas.com)
