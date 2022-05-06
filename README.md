@@ -10,7 +10,7 @@ I've been working as a Frontend developer for three years now. I started my care
 * 🖥️  See my portfolio at [Sai Krishnna Das](http://www.saikrishnadas.com)
 * ✉️  You can contact me at [saikrishnadas666@gmail.com](mailto:saikrishnadas666@gmail.com)
 * 🚀  I'm currently working on [StoBook](http://thestobook.vercel.app/)
-* ⚡  Resume: https://www.saikrishnadas.com/sai-resume.pdf
+* ⚡  Resume: https://www.saikrishnadas.com/sai-resume-2022.pdf
 
 ### Skills
 
