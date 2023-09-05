@@ -9,7 +9,6 @@ I started my career as a Machine Learning engineer but then later found my passi
 * 🌍  I'm based in Kerala, India
 * 🖥️  See my portfolio at [Sai Krishnna Das](http://www.saikrishnadas.com)
 * ✉️  You can contact me at [saikrishnadas666@gmail.com](mailto:saikrishnadas666@gmail.com)
-* 🚀  I'm currently working on [StoBook](http://thestobook.vercel.app/)
 * ⚡  Resume: https://www.saikrishnadas.com/sai-resume-2022.pdf
 
 ### Skills
