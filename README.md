@@ -8,7 +8,7 @@ I started my career as a Machine Learning engineer but then later found my passi
 
 * 🖥️  See my portfolio at [Sai Krishnna Das](http://www.saikrishnadas.com)
 * ✉️  You can contact me at [saikrishnadas666@gmail.com](mailto:saikrishnadas666@gmail.com)
-* ⚡  Resume: https://www.saikrishnadas.com/sai-resume-2022.pdf
+* ⚡  Resume: https://www.saikrishnadas.com/SAIRESUME.pdf
 
 ### Skills
 
